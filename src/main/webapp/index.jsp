@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Welcome to Gaithersbur</h2>
+<h2> Welcome to Gaithersburgh</h2>
 </body>
 </html>
